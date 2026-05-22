@@ -7,14 +7,14 @@ export function Footer() {
                     All rights reserved.
                 </div>
                 <div className="flex items-center gap-4">
-                    <a
+                    {/* <a
                         href="https://www.linkedin.com/in/abdelrahman-maher-098bb0383/"
                         target="_blank"
                         rel="noreferrer"
                         className="hover:text-text transition-colors"
                     >
                         LinkedIn
-                    </a>
+                    </a> */}
                     <a
                         href="https://github.com/Abdelrahman-maher2000"
                         target="_blank"
