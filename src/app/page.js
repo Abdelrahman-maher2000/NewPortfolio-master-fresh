@@ -23,7 +23,7 @@ export default function HomePage() {
             <AboutSection about={data.about} />
             <SkillsSection skills={data.skills} />
             <ProjectsPreview projects={data.projects} />
-            <ContactSection about={data.about} />
+            {/* <ContactSection about={data.about} /> */}
             <Footer />
         </div>
     );
